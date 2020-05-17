@@ -1,0 +1,8 @@
+jannfis:
+  name: Jann
+  bio: I'm just a random nerd, believing in the power of sharing.
+  location: Germany
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jannfis"
