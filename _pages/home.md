@@ -18,7 +18,7 @@ different from time to time as well.
 All information is provided as-is, I take no liability if your mileage varies.
 If you find something that you think needs correction, please let me know or
 even better, open a pull request at this site's
-[repository](https://github.com/mistrust-networks/mistrust-site).
+[repository](https://github.com/mistrust-networks/mistrust-web).
 
 *mistrust.net* is a purely personal site, all authors express their own
 opinions and points of view here. We are not associated with any kind of
