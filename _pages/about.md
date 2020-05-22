@@ -19,3 +19,12 @@ even better, open a pull request at this site's
 opinions and points of view here. We are not associated with any kind of
 organization, company or corporation when publishing articles on this
 site.
+
+## License & legalise
+
+<!-- {% raw %} -->
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<br />The content of this site is licensed under a
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<!-- {% endraw %} -->
