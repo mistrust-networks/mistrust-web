@@ -1,6 +1,8 @@
 jannfis:
   name: Jann
-  bio: I'm just a random nerd, believing in the power of sharing.
+  bio: |
+    I'm just a random nerd, believing in the power of sharing.
+    The GnuPG key I use for signing my commits has fingerprint `C6E31C77F79FA8F319EDD27A07E34825A909B250`
   location: Germany
   links:
     - label: "GitHub"
