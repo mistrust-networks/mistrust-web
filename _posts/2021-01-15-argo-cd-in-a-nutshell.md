@@ -6,7 +6,7 @@ author: jannfis
 date: 2021-01-15 07:52 -0600
 ---
 Have you ever wanted to try out Argo CD, but its complexity and pre-requirements
-has prevented you from doing so? Did you ever wanted to upgrade Argo CD to test
+has prevented you from doing so? Have you ever wanted to upgrade Argo CD to test
 a new feature, or a bug fix, but your only environment is one that is not easily
 upgradable, e.g. a production environment? Are you looking for a reproducible,
 easy to set up demo environment to impress your co-workers or manager with Argo
