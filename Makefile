@@ -1,11 +1,12 @@
-IMAGE_TAG?=latest
-IMAGE_NAMESPACE?=quay.io/jannfis
-IMAGE_NAME=jekyll-site-builder
+IMAGE_TAG			?= latest
+IMAGE_NAMESPACE		?= quay.io/jannfis
+IMAGE_NAME			?= jekyll-site-builder
+SUDO				?= sudo
 
 all: image
 
 image:
-	docker build -t ${IMAGE_NAMESPACE}/${IMAGE_NAME}:${IMAGE_TAG} .
+	${SUDO} docker build -t ${IMAGE_NAMESPACE}/${IMAGE_NAME}:${IMAGE_TAG} .
 
 image-push:
-	docker push ${IMAGE_NAMESPACE}/${IMAGE_NAME}:${IMAGE_TAG}
+	${SUDO} docker push ${IMAGE_NAMESPACE}/${IMAGE_NAME}:${IMAGE_TAG}
