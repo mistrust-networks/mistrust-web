@@ -1,4 +1,4 @@
-FROM jekyll/jekyll:stable
+FROM docker.io/jekyll/jekyll:stable
 ADD Gemfile .
 ADD Gemfile.lock .
 
